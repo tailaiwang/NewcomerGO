@@ -1,0 +1,72 @@
+﻿TToronto Island Airport Terminal Building 
+43.631947, -79.395736
+Gouinlock Buildings / Early Exhibition Buildings 
+43.632778, -79.416111
+Fort York 
+43.639028, -79.403333
+Metallic Roofing Company Offices
+43.639169, -79.427156
+John Street Roundhouse (Canadian Pacific)
+43.640862, -79.385925
+Union Station (Canadian Pacific and Grand Trunk) 
+43.645278, -79.380556
+Royal Alexandra Theatre 
+43.64741, -79.3875
+Old Toronto Post Office / Old Bank of Canada
+43.64999, -79.376355
+St. Lawrence Hall
+43.650278, -79.372222
+Bank of Upper Canada Building
+43.651817, -79.370972
+Fourth York Post Office
+43.651847, -79.37065
+Osgoode Hall
+43.652222, -79.385556
+The Grange 
+43.653125, -79.392417
+Elgin and Winter Garden Theatres 
+43.653056, -79.379167
+Massey Hall 
+43.654167, -79.379028
+Kensington Market 
+43.654772, -79.400678
+St. Anne's Anglican Church 
+43.650622, -79.430653
+Birkbeck Building 
+43.650706, -79.377914
+Gooderham and Worts Distillery 
+43.65073, -79.359769
+George Brown House 
+43.655825, -79.39502
+St. George's Hall (Arts and Letters Club) 
+43.657814, -79.382642
+Eaton's 7th Floor Auditorium and Round Room
+43.660929, -79.383302
+Women's College Hospital 
+43.661686, -79.387497
+Maple Leaf Gardens 
+43.662222, -79.380278
+University College 
+43.662222, -79.395833
+Old Toronto City Hall and York County Court House 
+43.6525, -79.381667
+Annesley Hall 
+43.667778, -79.393056
+Chapel of St. James-the-Less Anglican Church 
+43.669556, -79.368978
+Heliconian Hall 
+43.671953, -79.393344
+The Studio Building 
+43.67325, -79.386083
+Royal Conservatory of Music 
+43.667972, -79.39625
+Balmoral Fire Hall 
+43.685833, -79.39387
+Mount Pleasant Cemetery 
+43.696351, 79.384882
+Eglinton Theatre
+43.704433, 79.399000
+Montgomery's Tavern 
+43.709500, 79.399000
+Bead Hill 
+43.804103, 79.140111
